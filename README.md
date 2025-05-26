@@ -348,6 +348,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This smart contract is provided as-is for educational and development purposes. While security best practices have been followed, please conduct thorough testing and auditing before using in production environments.
 
+## CoreDAO Transaction Details on Testnet
+
+
 ---
 
 **Built with ❤️ for the Core DAO ecosystem**
