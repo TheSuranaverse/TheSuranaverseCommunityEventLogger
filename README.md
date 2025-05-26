@@ -348,7 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This smart contract is provided as-is for educational and development purposes. While security best practices have been followed, please conduct thorough testing and auditing before using in production environments.
 
-## Contract Details: 0x7a3f8de6d570c4a7d61ee7ac231a165b7275cabc93a54aa4cde43bdb02df4329
+### Contract Details: 0x7a3f8de6d570c4a7d61ee7ac231a165b7275cabc93a54aa4cde43bdb02df4329
 
 ![coreDAO_transaction](https://github.com/user-attachments/assets/8986ca42-ded4-4888-b1cb-cb1cd4a1ce2d)
 
